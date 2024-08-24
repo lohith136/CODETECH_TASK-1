@@ -1,11 +1,9 @@
-Name : MOPIDEVI LOHITH
-Company : CODETECH IT SOLUTIONS
-ID : CT04DS6789
-Domain : Machine Learning
-Duration : August to September 2024
-Mentor : SANTHOSH KUMAR
-
-Overview of the Project
+Name : MOPIDEVI LOHITH                                                                                                
+Company : CODETECH IT SOLUTIONS                                                                                          
+ID : CT04DS6789                                                                                                
+Domain : Machine Learning                                                                                          
+Duration : August to September 2024                                                                        
+Mentor : SANTHOSH KUMAR                                
 
 Project Overview:
 Objective:
