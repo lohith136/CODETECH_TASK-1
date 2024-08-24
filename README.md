@@ -1,5 +1,5 @@
 Name : MOPIDEVI LOHITH                                                                                                
-Company : CODETECH IT SOLUTIONS                                                                                          
+Company : CODTECH IT SOLUTIONS                                                                                          
 ID : CT04DS6789                                                                                                
 Domain : Machine Learning                                                                                          
 Duration : August to September 2024                                                                        
