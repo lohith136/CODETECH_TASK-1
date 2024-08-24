@@ -5,7 +5,7 @@ Domain : Machine Learning
 Duration : August to September 2024                                                                        
 Mentor : SANTHOSH KUMAR                                
 
-Project Overview:
+Project Overview:                                                                                                        
 Objective:
 
 To explore how different housing and demographic factors (such as the number of rooms, the socio-economic status of the population, and the quality of education) influence the median home value.
